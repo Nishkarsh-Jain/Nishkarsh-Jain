@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 - I’m currently learning **Spring-boot, Angular**
-
+<img src="https://mohamednabhan.github.io/Mohamed-Nabhan/assets/images/about.gif" height="100" width="100">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nishkarsh-jain-1410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishkarsh-jain-1410" height="30" width="40" /></a>
