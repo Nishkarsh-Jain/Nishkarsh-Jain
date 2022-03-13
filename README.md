@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Nishkarsh Jain</h1>
-<img src="https://codinginfinite.com/wp-content/uploads/2018/12/0KXuX_V54FKpK-wsX.gif" height="60" width="60">
+<img src="https://codinginfinite.com/wp-content/uploads/2018/12/0KXuX_V54FKpK-wsX.gif" style="max-width:100%">
 <h3 align="center">A passionate frontend developer from India.</h3>
 
 
