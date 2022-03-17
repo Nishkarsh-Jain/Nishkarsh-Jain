@@ -10,17 +10,6 @@
 
 
 
-## 🚀 About Me
-
-
-
-
-
-
-
-
-
-
 
 
 ## 🛠 Skills & Tools:
