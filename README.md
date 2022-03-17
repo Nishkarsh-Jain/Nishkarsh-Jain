@@ -13,13 +13,10 @@
 ## 🚀 About Me
 
 
-- 🔭 I’m currently working on **FOOD DELIVERY WEBSITE**
 
-- 🌱 I’m currently learning **SRPING BOOT & MAVEN**
 
-- 💬 Ask me about **JS, JAVA, MYSQL**
 
-- 📫 How to reach me **nishkarshjain4@gmail.com**
+
 
 
 
