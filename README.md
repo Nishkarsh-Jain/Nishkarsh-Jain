@@ -57,7 +57,7 @@ public class Software_Engineer{
 <p align="right"><a href="https://github.com/nishkarsh-jain"><img alt="Nishkarsh Jainr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishkarsh-jain&hide=ASP.NET,Jupyter Notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px"/></a></p>
 
 
-## align="left">Connect with me:
+## Connect with me:
 
 <p align="left">
 <a href="https://linkedin.com/in/nishkarsh-jain-1410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
